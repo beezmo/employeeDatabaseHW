@@ -39,3 +39,11 @@ ON p.emp_no = e.emp_no
 LEFT JOIN departments d
 ON d.dept_no = p.dept_no;
 
+-- List all employees whose first name is "Hercules" 
+-- and last names begin with "B."
+SELECT *
+FROM employees
+WHERE (
+	first_name = 'Hercules'
+	AND last_name LIKE 'B%'
+);
