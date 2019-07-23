@@ -1,3 +1,13 @@
+# SQL HOMEWORK
+
+All completed work are located in 'submitted'
+Initial csv files are located in 'data'
+
+
+See below for assignment instructions..
+
+
+
 # Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
