@@ -1,8 +1,8 @@
 # SQL HOMEWORK
 
 All completed work are located in 'submitted'
-Initial csv files are located in 'data'
 
+Initial csv files are located in 'data'
 
 See below for assignment instructions..
 
